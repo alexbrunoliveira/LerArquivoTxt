@@ -33,7 +33,7 @@ public class Arquivos {
 		pessoas.add(pessoa3);
 		
 		
-		File arquivo = new File("C:\\temp\\ws-eclipse\\arquivos\\src\\arquivos\\arquivo.txt");
+		File arquivo = new File("C:\\\\Users\\\\alex_\\\\git\\\\repository3\\\\arquivos\\\\src\\\\arquivos\\\\arquivo.");
 		
 		if (!arquivo.exists()) {
 			arquivo.createNewFile();
